@@ -1,0 +1,10 @@
+{
+  "name": "SemouleChatServer",
+  "version": 2,
+  "env": {
+    "DB_USER": "@smlchat-dbuser",
+    "DB_PASS": "@smlchat-dbpass",
+    "TEST": "@test"
+  }
+  
+}
